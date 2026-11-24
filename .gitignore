@@ -1,0 +1,18 @@
+node_modules
+attached_assets
+.claude
+.env 
+ios/Pods/
+ios/build/
+scripts/venv/
+/bundle
+scripts/__pycache__/
+*.pyc
+.bundle/
+docs/
+.aider*
+
+# fastlane 
+
+ios/Fastlane/report.xml
+ios/Fastlane/test_output
